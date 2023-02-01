@@ -7,6 +7,15 @@
     text-align: center;
     background-size: cover;
 
+    p {
+        margin-top: 48px;
+    }
+
+    .button {
+        margin-top: 2vw;
+        margin-bottom: 8px;
+    }
+
     &__content {
         max-width: 640px;
 
